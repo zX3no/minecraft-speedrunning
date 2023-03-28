@@ -57,6 +57,8 @@ Piglins will become aggravated for the following reasons:
 - Cannot be bartered with or distracted with gold.
 - Will lose aggrevation in x seconds.
 
+> TODO: I remember seeing an aggro timer mod but I can't find it.
+
 
 ### Training maps
 
@@ -97,7 +99,7 @@ Automatic Installer for mods - [ModCheck by RedLime](https://github.com/RedLime/
 
 ---
 
-> Basic structure, would prefer pages, but can't be bothered setting up a SSG just yet.
+> TODO: Basic structure, would prefer pages, but can't be bothered setting up a SSG just yet.
 
 ## Overworld
 
