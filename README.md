@@ -95,7 +95,17 @@ Automatic Installer for mods - [ModCheck by RedLime](https://github.com/RedLime/
     - MiniHub
     - Tweakeroo
 
+## How to read the source code.
 
+1. Run minecraft 1.16.1 using the vanilla launcher.
+2. Install [JDK 8](https://adoptium.net/download/)
+3. Open a terminal and run `java -version` to confirm you're on version 8.
+4. Download [MCP-Reborn for 1.16.1](https://github.com/Hexeption/MCP-Reborn/releases/download/1.16.1-20200514/MCP-Reborn-1.16.1.zip)
+5. Extract into folder and open
+6. Shift + right click `Open powershell window here`.
+7. `./gradlew setup`
+
+The source code will be in `src/main/java/net/minecraft/`.
 
 ---
 
