@@ -27,9 +27,9 @@ It will then drop a random item from the drop table.
 | Crying Obsidian                               | 1–3      | "               | "      |
 | Soul Sand                                     | 4–16     | "               | "      |
 
-> TODO: Check source code to confirm the wiki is right.
-
 <sup>[Bartering - Minecraft Wiki](https://minecraft.fandom.com/wiki/Bartering?oldid=1626556)</sup>
+
+<sup>[Source](piglin_bartering.json)</sup>
 
 ### Aggravation
 
