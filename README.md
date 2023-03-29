@@ -29,8 +29,6 @@ It will then drop a random item from the drop table.
 
 <sup>[Bartering - Minecraft Wiki](https://minecraft.fandom.com/wiki/Bartering?oldid=1626556)</sup>
 
-<sup>[Source](piglin_bartering.json)</sup>
-
 ### Aggravation
 
 Piglins will become aggravated for the following reasons:
@@ -107,23 +105,42 @@ Automatic Installer for mods - [ModCheck by RedLime](https://github.com/RedLime/
 
 The source code will be in `src/main/java/net/minecraft/`.
 
+## Divine Travel
+
+https://www.youtube.com/watch?v=IKo-jrZSgWU
+https://www.youtube.com/watch?v=SXem01c44-I
+
+
 ---
 
 > TODO: Basic structure, would prefer pages, but can't be bothered setting up a SSG just yet.
 
-## Overworld
+# Overworld
+
+## Lava
+
+https://minecraft.fandom.com/wiki/Lava?oldid=1950804
+
+Lava replaces air blocks generated in caves and ravines between y 1-10.
+Lava does not replace air blocks inside mineshafts, dungeons or strongholds.
+This is why mineshafts often lack the lava you might expect.
+
+## Structures
+
+> I'll want the loot tables for every structure. So it's clear what can be worth going to.
+> Basic structure should be: Biomes, use in a speedrun, loot table.
+
+### Lava Lake (Lava Pool)
+
+Lava lakes can generate in any biome at any level.
+
+They are easiest to find in flat biomes such as desert or plains.
+
+<sup>https://minecraft.fandom.com/wiki/Lava_lake</sup>
 
 ### Village
 
-### Shipwrek
-
-### Cave
-
-### Mapless
-
 ### Ruined Portals
-
-### Ocean Monument
 
 ### Stronghold
 
@@ -135,14 +152,46 @@ Calculator: https://github.com/Ninjabrain1/Ninjabrain-Bot/releases
 
 Rings: https://imgur.com/gallery/i3fIanf
 
-## Nether
+### Buried Treasure (Mapless)
 
-### Bastion
+### Pillager Outpost
 
-### Fortress
+### Jungle Temple
 
-## End
+### Swamp Hut
 
-### One-Cycle
+### Woodland Mansion
 
-### Zero-Cycle
+
+As of `v1.11` Lava generates in woodland mansions: two blocks of lava generate in the "blacksmith room", and 25 blocks of lava generate in a secret "lava room".
+
+Source: https://minecraft.fandom.com/wiki/Lava?oldid=1950804
+
+
+
+### Shipwrek
+
+### Ocean Monument
+
+### Ocean Ruins
+
+## Caves
+
+Lava Dowsing:
+https://www.youtube.com/watch?v=SzNbVxDj-do
+https://www.youtube.com/watch?v=rCzqTc6Tvt0
+
+
+
+
+# Nether
+
+## Bastion
+
+## Fortress
+
+# End
+
+## One-Cycle
+
+## Zero-Cycle
