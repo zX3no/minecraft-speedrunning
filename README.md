@@ -55,7 +55,7 @@ Piglins will become aggravated for the following reasons:
 - Cannot be bartered with or distracted with gold.
 - Will lose aggrevation in x seconds.
 
-> TODO: I remember seeing an aggro timer mod but I can't find it.
+> TODO: I remember seeing an aggro timer mod but I can't find it. 😢
 
 
 ### Training maps
@@ -93,7 +93,7 @@ Automatic Installer for mods - [ModCheck by RedLime](https://github.com/RedLime/
     - MiniHub
     - Tweakeroo
 
-## How to read the source code.
+## How to read the source code
 
 1. Run minecraft 1.16.1 using the vanilla launcher.
 2. Install [JDK 8](https://adoptium.net/download/)
@@ -105,15 +105,38 @@ Automatic Installer for mods - [ModCheck by RedLime](https://github.com/RedLime/
 
 The source code will be in `src/main/java/net/minecraft/`.
 
+## How to find loot tables
+
+1. Install 7zip.
+2. Run 7zip and navigate to `C:\Users\<user_name>\AppData\Roaming\.minecraft\versions\1.16.1\`
+3. Open `1.16.1.jar`
+4. Navigate to `data/minecraft/loot_tables`
+5. Open any of the `.json` files or drag and drop any file/folder.
+
+They are also avaliable on this repository in [loot tables](/loot_tables/).
+
 ## Divine Travel
 
 https://www.youtube.com/watch?v=IKo-jrZSgWU
 https://www.youtube.com/watch?v=SXem01c44-I
 
+---
+
+Mega Doc, mostly covers the speedrun rather than more specific mechanics.
+https://docs.google.com/document/d/1zDC0n38EhvcMaXVFVeZwONszmdXonXlFO1rBXqvhxE4/edit#heading=h.s2x5zxnc4jn3
+
 
 ---
 
 > TODO: Basic structure, would prefer pages, but can't be bothered setting up a SSG just yet.
+
+# Mechanics
+
+## Perl Hang
+
+## Blaze Bed
+
+## Hunger Reset
 
 # Overworld
 
