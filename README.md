@@ -132,6 +132,25 @@ https://docs.google.com/document/d/1zDC0n38EhvcMaXVFVeZwONszmdXonXlFO1rBXqvhxE4/
 
 # Mechanics
 
+## Sand / Gravel
+
+Sand and gravel are both affected by gravity so one might conclude that you cannot jump on it.
+However, these blocks are unaffected by gravity for a short period after they are placed.
+
+This can be used to climb up walls or break your fall if you don't have regular blocks.
+
+> TODO: Check the source code for how long exactly they are unaffected by gravity.
+
+Sand and Gravel can also be used to push entities and items.
+
+If an entity is covered by a gravity block it will move up.
+
+This is useful for getting your items out a 2x1 hole that piglins.
+Just drop a single gravity block overhead and the items will move up.
+The items are moved up because they are covered by a block.
+The piglins don't move because they are 2 blocks tall and are not covered by the block.
+A pig however, would be pushed up. 🐖👆
+
 ## Ender Pearls
 
 Usually an ender pearl is thrown and when it hits the ground you will be teleported there.
