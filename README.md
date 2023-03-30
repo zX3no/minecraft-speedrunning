@@ -132,7 +132,24 @@ https://docs.google.com/document/d/1zDC0n38EhvcMaXVFVeZwONszmdXonXlFO1rBXqvhxE4/
 
 # Mechanics
 
-## Perl Hang
+## Ender Pearls
+
+Usually an ender pearl is thrown and when it hits the ground you will be teleported there.
+However, there are some mechanisms that allow for a pearl to frozen (hung) after being thrown.
+
+The most common way is to throw a pearl, wait for it travel a few chunks away, then reduce your render distance.
+When a pearl is in the air and out of render distance it will not move.
+
+When your render distance is increased to load in the pearl it will continue and hit it's target.
+
+Ender pearls can also get stuck in soul sand water elevators.
+This mechanic is known as ender pearl stasis chambers.
+
+Pearls can also be moved with expolsions(TNT, Bed in Nether or End).
+This is useful in ender pearl stasis chambers as the ender pearl can be stored and shot over large distances.
+This is not used in speedruns as it is too complicated to setup.
+
+However, if you throw an ender pearl then detonate a bed in the nether. The distance it travels will be significatly increased.
 
 ## Blaze Bed
 
