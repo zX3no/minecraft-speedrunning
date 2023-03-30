@@ -170,6 +170,25 @@ This is not used in speedruns as it is too complicated to setup.
 
 However, if you throw an ender pearl then detonate a bed in the nether. The distance it travels will be significatly increased.
 
+## Dolphins
+
+Players who sprint-swim within a 9 block spherical radius of a dolphin receive Dolphin's Grace for 5 seconds‌.
+Players who already have Dolphin's Grace and continue to sprint-swim within a 15 block spherical radius of a dolphin will have it replenished.
+The dolphin keeps following the player as long as they are sprint-swimming, allowing the player to swim under the speed boost for long distances.
+
+Usually you would need to stop sprint-swimming to catch your breah and prevent drowning.
+However there is a specific angle just before you leave the water which will allow you to sprint swim while out of the water.
+
+Dolphins will pathfind to dropped items and push them.
+This can be a problem if you have punched some kelp underwater as they may path to that instead of you.
+
+[example here]
+
+> TODO: Could it be useful to drop items to lure dolphins?
+> TODO: How much faster is Dolphin's Grace
+
+<sup>https://minecraft.fandom.com/wiki/Dolphin</sup>
+
 ## Blaze Bed
 
 ## Hunger Reset
