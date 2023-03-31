@@ -182,6 +182,8 @@ However there is a specific angle just before you leave the water which will all
 Dolphins will pathfind to dropped items and push them.
 This can be a problem if you have punched some kelp underwater as they may path to that instead of you.
 
+> When dolphins are fed raw cod or raw salmon, they swim to the nearest shipwreck, buried treasure, or ocean ruins. TODO: TEST
+
 [example here]
 
 > TODO: Could it be useful to drop items to lure dolphins?
@@ -273,3 +275,24 @@ https://www.youtube.com/watch?v=rCzqTc6Tvt0
 ## One-Cycle
 
 ## Zero-Cycle
+
+
+----
+
+#### Random Notes
+
+When entering the end.
+You should pause so that the dragon has time to spawn in.
+Otherwise the dragon will lag around, which can make zero cycle impossible.
+
+A sub-1 end split is always possible with zero-cycle.
+
+Instaperch will be a low-1 or sub-1 split.
+
+There are twelve pillars in the end.
+
+The dragon spawns in the sky and slowly decends down.
+There is some element of randomness with the pathing.
+
+Zero requires a pillar at the front or back that is at a certain height.
+If a tower is too tall, your bed will blow up the end crystal which will cause the dragon to fly away.
