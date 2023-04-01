@@ -296,3 +296,6 @@ There is some element of randomness with the pathing.
 
 Zero requires a pillar at the front or back that is at a certain height.
 If a tower is too tall, your bed will blow up the end crystal which will cause the dragon to fly away.
+
+Sometimes shipwrecks can generate in different biomes causing them to change wood type and y-level.
+All of the chests should generate but they might be at a different y-level.
