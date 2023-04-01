@@ -299,3 +299,6 @@ If a tower is too tall, your bed will blow up the end crystal which will cause t
 
 Sometimes shipwrecks can generate in different biomes causing them to change wood type and y-level.
 All of the chests should generate but they might be at a different y-level.
+
+When micro-lensing to find bastions, the bastion is not directly where the entity spikes. It's either on the left or right of your screen.
+The players fov is a cone (view frustum).
