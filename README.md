@@ -2,6 +2,9 @@
 
 ## Piglins
 
+> TODO: Piglins will fall from a reasonable height to chase you on the hard difficulty.
+> Is this the same for normal?
+
 ### Bartering
 
 After dropping a gold ingot to a piglin, the piglin will examin it for 6 seconds.
